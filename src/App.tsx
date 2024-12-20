@@ -56,7 +56,7 @@ function App() {
 	return (
 		<div className="w-full min-h-screen bg-gray-800 flex justify-center px-4">
 			<main className="w-full max-w-96">
-				<h1 className="text-3xl text-slate-200 font-semibold mb-14 text-center">
+				<h1 className="text-3xl text-slate-200 font-semibold mb-14 text-center mt-16">
 					Gerenciamento de usuários
 				</h1>
 
